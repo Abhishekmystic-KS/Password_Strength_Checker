@@ -45,5 +45,5 @@ No installation is required. Simply open `index.html` in V/S Code.
 - Strength levels are visually indicated
 
  
- ## Password Checker
+ ## Password Strength Checker
   ![Image](https://github.com/user-attachments/assets/724750fa-b55c-4b28-800a-ddeebcb1b15a) 
